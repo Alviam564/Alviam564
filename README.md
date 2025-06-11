@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm William Alvarez Rodas</h1>
-<h3 align="center">A passionate software developer from New York</h3>
+<h3 align="center">A passionate Frontend developer from New York</h3>
 
 - 👨‍💻 All of my projects are available at [Alviam564.vercel.app](Alviam564.vercel.app)
 
